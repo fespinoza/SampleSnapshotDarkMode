@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SnapshotTesting",
+        "repositoryURL": "https://github.com/fespinoza/swift-snapshot-testing.git",
+        "state": {
+          "branch": "dark-mode-support-with-xcode-11",
+          "revision": "8969edfb5c6d76cc58d9853bcf93583d82c6d46a",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
